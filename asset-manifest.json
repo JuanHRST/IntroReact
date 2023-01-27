@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/IntroReact/static/css/main.ab23b909.css",
+    "main.js": "/IntroReact/static/js/main.44c42996.js",
+    "index.html": "/IntroReact/index.html",
+    "main.ab23b909.css.map": "/IntroReact/static/css/main.ab23b909.css.map",
+    "main.44c42996.js.map": "/IntroReact/static/js/main.44c42996.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab23b909.css",
+    "static/js/main.44c42996.js"
+  ]
+}
